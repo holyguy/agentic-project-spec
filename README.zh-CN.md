@@ -18,7 +18,7 @@
 
 ```bash
 # 克隆模板
-git clone https://github.com/your-org/agentic-project-template.git my-project
+git clone https://github.com/your-org/agentic-project-spec.git my-project
 cd my-project
 
 # 移除模板的 git 历史

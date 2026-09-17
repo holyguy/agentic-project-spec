@@ -18,7 +18,7 @@ A cross-AI-Agent compatible project development template. Lets mainstream AI age
 
 ```bash
 # Clone the template
-git clone https://github.com/your-org/agentic-project-template.git my-project
+git clone https://github.com/your-org/agentic-project-spec.git my-project
 cd my-project
 
 # Remove the template's git history
