@@ -1,8 +1,8 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 # 🚀 Agentic Project Template
 
 A cross-AI-Agent compatible project development template. Lets mainstream AI agents like Claude Code, Codex, OpenCode, Antigravity, and CodeBuddy seamlessly take over any development stage of your project.
-
-> 🇨🇳 中文文档: [README.zh-CN.md](./README.zh-CN.md)
 
 ## Features
 

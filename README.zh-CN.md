@@ -1,6 +1,6 @@
-# 🚀 Agentic Project Template（中文版）
+[English](README.md) | [简体中文](README.zh-CN.md)
 
-> 🇬🇧 English: [README.md](./README.md)
+# 🚀 Agentic Project Template
 
 跨 AI Agent 兼容的项目开发模板。让 Claude Code、Codex、OpenCode、Antigravity、CodeBuddy 等主流 AI Agent 都能无缝接管项目的任何开发阶段。
 
