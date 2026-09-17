@@ -2,6 +2,8 @@
 
 A cross-AI-Agent compatible project development template. Lets mainstream AI agents like Claude Code, Codex, OpenCode, Antigravity, and CodeBuddy seamlessly take over any development stage of your project.
 
+> 🇨🇳 中文文档: [README.zh-CN.md](./README.zh-CN.md)
+
 ## Features
 
 - 📋 **Unified Agent Configuration** — AGENTS.md as the core, compatible with all mainstream AI coding agents
