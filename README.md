@@ -1,5 +1,3 @@
-📖 **Docs with in-page language switch:** https://holyguy.github.io/agentic-project-template/
-
 # 🚀 Agentic Project Template
 
 A cross-AI-Agent compatible project development template. Lets mainstream AI agents like Claude Code, Codex, OpenCode, Antigravity, and CodeBuddy seamlessly take over any development stage of your project.
