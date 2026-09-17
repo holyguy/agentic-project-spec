@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+📖 **Docs with in-page language switch:** https://holyguy.github.io/agentic-project-template/
 
 # 🚀 Agentic Project Template
 
