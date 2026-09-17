@@ -1,0 +1,43 @@
+# === 依赖 ===
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === 构建产物 ===
+dist/
+build/
+*.egg-info/
+.next/
+
+# === 环境变量 ===
+.env
+.env.local
+.env.*.local
+
+# === Agent 本地配置（不提交） ===
+CLAUDE.local.md
+CODEBUDDY.local.md
+AGENTS.local.md
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# === 测试 ===
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# === 日志 ===
+*.log
+logs/
+
+# === 临时文件 ===
+tmp/
+temp/

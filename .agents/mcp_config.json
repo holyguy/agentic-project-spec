@@ -1,0 +1,5 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "MCP 服务器配置模板 —— 根据项目需要启用对应的 MCP 服务器",
+  "mcpServers": {}
+}
